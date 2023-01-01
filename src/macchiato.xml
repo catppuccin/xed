@@ -56,7 +56,7 @@ SOFTWARE.
   <color name="flamingo"  value="#f0c6c6"/>
   <color name="rosewater"  value="#f4dbd6"/>
 
-  <!-- Global Settings -->
+   <!-- Global Settings -->
   <style name="text"                        foreground="text" background="base"/>
   <style name="selection"                   foreground="crust" background="text"/>
   <style name="cursor"                      foreground="subtext0"/>
@@ -81,7 +81,7 @@ SOFTWARE.
   <style name="def:doc-comment-element"     italic="true"/>
 
   <!-- Constants -->
-  <style name="def:constant"                foreground="sky"/>
+  <style name="def:constant"                foreground="green"/>
   <style name="def:special-char"            foreground="green"/>
 
   <!-- Identifiers -->

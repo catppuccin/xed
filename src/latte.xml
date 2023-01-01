@@ -81,7 +81,7 @@ SOFTWARE.
   <style name="def:doc-comment-element"     italic="true"/>
 
   <!-- Constants -->
-  <style name="def:constant"                foreground="sky"/>
+  <style name="def:constant"                foreground="green"/>
   <style name="def:special-char"            foreground="green"/>
 
   <!-- Identifiers -->
