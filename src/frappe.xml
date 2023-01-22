@@ -26,7 +26,7 @@ SOFTWARE.
 -->
 <style-scheme id="catppuccin-frappe" _name="Catppuccin Frappe" version="1.0">
   <author>Catppuccin</author>
-  <_description>Soothing Pastell theme for xed</_description>
+  <_description>Soothing pastel theme for xed</_description>
 
   <!-- Catppuccin Frappe Palette -->
   <color name="crust"  value="#232634"/>
@@ -77,7 +77,7 @@ SOFTWARE.
 
   <!-- Comments -->
   <style name="def:comment"                 foreground="subtext0"/>
-  <style name="def:shebang"                 foreground="base" bold="true"/>
+  <style name="def:shebang"                 foreground="subtext0" bold="true"/>
   <style name="def:doc-comment-element"     italic="true"/>
 
   <!-- Constants -->
@@ -94,10 +94,10 @@ SOFTWARE.
   <style name="def:type"                    foreground="yellow"/>
 
   <!-- Operators -->
-  <style name="def:operator"                foreground="green"/>
+  <style name="def:operator"                foreground="teal"/>
 
   <!-- Others -->
-  <style name="def:preprocessor"            foreground="mauve"/>
+  <style name="def:preprocessor"            foreground="sky"/>
   <style name="def:error"                   foreground="red" bold="true"/>
   <style name="def:note"                    foreground="lavender" bold="true"/>
   <style name="def:underlined"              italic="true" underline="single"/>
