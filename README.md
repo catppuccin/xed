@@ -36,9 +36,10 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. open xed and go to Settings -> Themes and click the + Icon
-3. Select the file and then apply the theme
+1. Download the flavor of your choice from [`src/`](./src/).
+2. Open Xed and go to **Settings** > **Themes**.
+3. Click the plus icon.
+4. Select the downloaded file and apply the theme.
 
 ## 💝 Thanks to
 
