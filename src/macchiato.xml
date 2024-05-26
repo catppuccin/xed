@@ -26,37 +26,37 @@ SOFTWARE.
 -->
 <style-scheme id="catppuccin-macchiato" _name="Catppuccin Macchiato" version="1.0">
   <author>Catppuccin</author>
-  <_description>Soothing pastel theme for xed</_description>
+  <_description>Soothing pastel theme for Xed</_description>
 
-  <!-- Catppuccin Macchiato Palette -->
-  <color name="crust"  value="#181926"/>
-  <color name="mantle"  value="#1e2030"/>
-  <color name="base"  value="#24273a"/>
-  <color name="surface0"  value="#363a4f"/>
-  <color name="surface1"  value="#494d64"/>
-  <color name="surface2"  value="#5b6078"/>
-  <color name="overlay0"  value="#6e738d"/>
-  <color name="overlay1"  value="#8087a2"/>
-  <color name="overlay2"  value="#939ab7"/>
-  <color name="subtext0"  value="#a5adcb"/>
-  <color name="subtext1"  value="#b8c0e0"/>
-  <color name="text"  value="#cad3f5"/>
-  <color name="lavender"  value="#b7bdf8"/>
-  <color name="blue"  value="#8aadf4"/>
-  <color name="sapphire"  value="#7dc4e4"/>
-  <color name="sky"  value="#91d7e3"/>
-  <color name="teal"  value="#8bd5ca"/>
-  <color name="green"  value="#a6da95"/>
-  <color name="yellow"  value="#eed49f"/>
-  <color name="peach"  value="#f5a97f"/>
-  <color name="maroon"  value="#ee99a0"/>
-  <color name="red"  value="#ed8796"/>
-  <color name="mauve"  value="#c6a0f6"/>
-  <color name="pink"  value="#f5bde6"/>
-  <color name="flamingo"  value="#f0c6c6"/>
+  <!-- Catppuccin Macchiato -->
   <color name="rosewater"  value="#f4dbd6"/>
+  <color name="flamingo"  value="#f0c6c6"/>
+  <color name="pink"  value="#f5bde6"/>
+  <color name="mauve"  value="#c6a0f6"/>
+  <color name="red"  value="#ed8796"/>
+  <color name="maroon"  value="#ee99a0"/>
+  <color name="peach"  value="#f5a97f"/>
+  <color name="yellow"  value="#eed49f"/>
+  <color name="green"  value="#a6da95"/>
+  <color name="teal"  value="#8bd5ca"/>
+  <color name="sky"  value="#91d7e3"/>
+  <color name="sapphire"  value="#7dc4e4"/>
+  <color name="blue"  value="#8aadf4"/>
+  <color name="lavender"  value="#b7bdf8"/>
+  <color name="text"  value="#cad3f5"/>
+  <color name="subtext1"  value="#b8c0e0"/>
+  <color name="subtext0"  value="#a5adcb"/>
+  <color name="overlay2"  value="#939ab7"/>
+  <color name="overlay1"  value="#8087a2"/>
+  <color name="overlay0"  value="#6e738d"/>
+  <color name="surface2"  value="#5b6078"/>
+  <color name="surface1"  value="#494d64"/>
+  <color name="surface0"  value="#363a4f"/>
+  <color name="base"  value="#24273a"/>
+  <color name="mantle"  value="#1e2030"/>
+  <color name="crust"  value="#181926"/>
 
-   <!-- Global Settings -->
+  <!-- Global Settings -->
   <style name="text"                        foreground="text" background="base"/>
   <style name="selection"                   foreground="crust" background="text"/>
   <style name="cursor"                      foreground="subtext0"/>

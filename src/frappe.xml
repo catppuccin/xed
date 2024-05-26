@@ -24,37 +24,37 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -->
-<style-scheme id="catppuccin-frappe" _name="Catppuccin Frappe" version="1.0">
+<style-scheme id="catppuccin-frappe" _name="Catppuccin Frappé" version="1.0">
   <author>Catppuccin</author>
-  <_description>Soothing pastel theme for xed</_description>
+  <_description>Soothing pastel theme for Xed</_description>
 
-  <!-- Catppuccin Frappe Palette -->
-  <color name="crust"  value="#232634"/>
-  <color name="mantle"  value="#292c3c"/>
-  <color name="base"  value="#303446"/>
-  <color name="surface0"  value="#414559"/>
-  <color name="surface1"  value="#51576d"/>
-  <color name="surface2"  value="#626880"/>
-  <color name="overlay0"  value="#737994"/>
-  <color name="overlay1"  value="#838ba7"/>
-  <color name="overlay2"  value="#949cbb"/>
-  <color name="subtext0"  value="#a5adce"/>
-  <color name="subtext1"  value="#b5bfe2"/>
-  <color name="text"  value="#c6d0f5"/>
-  <color name="lavender"  value="#babbf1"/>
-  <color name="blue"  value="#8caaee"/>
-  <color name="sapphire"  value="#85c1dc"/>
-  <color name="sky"  value="#99d1db"/>
-  <color name="teal"  value="#81c8be"/>
-  <color name="green"  value="#a6d189"/>
-  <color name="yellow"  value="#e5c890"/>
-  <color name="peach"  value="#ef9f76"/>
-  <color name="maroon"  value="#ea999c"/>
-  <color name="red"  value="#e78284"/>
-  <color name="mauve"  value="#ca9ee6"/>
-  <color name="pink"  value="#f4b8e4"/>
-  <color name="flamingo"  value="#eebebe"/>
+  <!-- Catppuccin Frappé -->
   <color name="rosewater"  value="#f2d5cf"/>
+  <color name="flamingo"  value="#eebebe"/>
+  <color name="pink"  value="#f4b8e4"/>
+  <color name="mauve"  value="#ca9ee6"/>
+  <color name="red"  value="#e78284"/>
+  <color name="maroon"  value="#ea999c"/>
+  <color name="peach"  value="#ef9f76"/>
+  <color name="yellow"  value="#e5c890"/>
+  <color name="green"  value="#a6d189"/>
+  <color name="teal"  value="#81c8be"/>
+  <color name="sky"  value="#99d1db"/>
+  <color name="sapphire"  value="#85c1dc"/>
+  <color name="blue"  value="#8caaee"/>
+  <color name="lavender"  value="#babbf1"/>
+  <color name="text"  value="#c6d0f5"/>
+  <color name="subtext1"  value="#b5bfe2"/>
+  <color name="subtext0"  value="#a5adce"/>
+  <color name="overlay2"  value="#949cbb"/>
+  <color name="overlay1"  value="#838ba7"/>
+  <color name="overlay0"  value="#737994"/>
+  <color name="surface2"  value="#626880"/>
+  <color name="surface1"  value="#51576d"/>
+  <color name="surface0"  value="#414559"/>
+  <color name="base"  value="#303446"/>
+  <color name="mantle"  value="#292c3c"/>
+  <color name="crust"  value="#232634"/>
 
   <!-- Global Settings -->
   <style name="text"                        foreground="text" background="base"/>
