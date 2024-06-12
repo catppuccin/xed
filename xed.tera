@@ -13,7 +13,7 @@ whiskers:
 
 {{ read_file(path="LICENSE") }}
 -->
-<style-scheme id="catppuccin-{{ flavor.identifier }}" _name="Catppuccin {{ flavor.name }}" version="1.0">
+<style-scheme id="catppuccin-{{ flavor.identifier }}" _name="Catppuccin {{ flavor.identifier | capitalize }}" version="1.0">
   <author>Catppuccin</author>
   <_description>Soothing pastel theme for Xed</_description>
 
