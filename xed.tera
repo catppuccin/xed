@@ -43,7 +43,7 @@ whiskers:
   <style name="search-match"                foreground="text" background="teal"/>
 
   <!-- Comments -->
-  <style name="def:comment"                 foreground="overlay0"/>
+  <style name="def:comment"                 foreground="overlay2"/>
   <style name="def:shebang"                 foreground="overlay0" bold="true"/>
   <style name="def:doc-comment-element"     italic="true"/>
 
