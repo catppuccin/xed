@@ -50,7 +50,7 @@ whiskers:
   <!-- Constants and variables -->
   <style name="def:constant"                foreground="peach"/>
   <style name="def:string"                  foreground="green"/>
-  <style name="def:special-char"            foreground="green" bold="true"/>
+  <style name="def:special-char"            foreground="pink"/>
   <style name="def:special-constant"        foreground="peach" bold="true"/>
   <style name="def:number"                  foreground="peach"/>
   <style name="def:floating-point"          foreground="peach"/>
