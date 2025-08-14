@@ -78,7 +78,7 @@ whiskers:
   <style name="def:inline-code"             foreground="green"/>
   <style name="def:insertion"               underline="single"/>
   <style name="def:deletion"                strikethrough="true"/>
-  <style name="def:link-text"               foreground="rosewater"/>
+  <style name="def:link-text"               foreground="lavender"/>
   <style name="def:link-symbol"             foreground="blue" bold="true"/>
   <style name="def:link-destination"        foreground="blue" italic="true" underline="single"/>
   <style name="def:heading"                 foreground="red" bold="true"/>
