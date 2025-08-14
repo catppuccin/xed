@@ -81,7 +81,7 @@ whiskers:
   <style name="def:link-text"               foreground="rosewater"/>
   <style name="def:link-symbol"             foreground="blue" bold="true"/>
   <style name="def:link-destination"        foreground="blue" italic="true" underline="single"/>
-  <style name="def:heading"                 foreground="teal" bold="true"/>
+  <style name="def:heading"                 foreground="red" bold="true"/>
   <style name="def:thematic-break"          foreground="green" bold="true"/>
   <style name="def:preformatted-section"    foreground="green"/>
   <style name="def:list-marker"             foreground="teal" bold="true"/>
@@ -101,15 +101,4 @@ whiskers:
   <style name="diff:added-line"             foreground="green"/>
   <style name="diff:removed-line"           foreground="red"/>
   <style name="diff:special-case"           foreground="peach"/>
-
-  <!-- Heading styles, uncomment to enable -->
-  <!--
-  <style name="def:heading0"                scale="5.0"/>
-  <style name="def:heading1"                scale="2.5"/>
-  <style name="def:heading2"                scale="2.0"/>
-  <style name="def:heading3"                scale="1.7"/>
-  <style name="def:heading4"                scale="1.5"/>
-  <style name="def:heading5"                scale="1.3"/>
-  <style name="def:heading6"                scale="1.2"/>
-  -->
 </style-scheme>
