@@ -67,7 +67,7 @@ whiskers:
   <style name="def:statement"               foreground="peach" bold="true"/>
 
   <!-- Types -->
-  <style name="def:type"                    foreground="yellow" bold="true"/>
+  <style name="def:type"                    foreground="yellow"/>
 
   <!-- Operators -->
   <style name="def:operator"                foreground="sky"/>
