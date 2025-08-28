@@ -64,7 +64,7 @@ whiskers:
   <style name="def:identifier"              foreground="blue"/>
 
   <!-- Statements -->
-  <style name="def:statement"               foreground="peach" bold="true"/>
+  <style name="def:statement"               foreground="peach"/>
 
   <!-- Types -->
   <style name="def:type"                    foreground="yellow"/>
