@@ -44,6 +44,7 @@
 ## 💝 Thanks to
 
 - [justTOBBI](https://github.com/justTOBBI)
+- [Saevyn](https://github.com/Saevyn)
 
 &nbsp;
 
